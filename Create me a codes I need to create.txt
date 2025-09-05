@@ -1,8 +1,1 @@
-Create me a codes I need to create a full functioning AI, Deepsite is a web builder so if i copy the codes and paste them in deepsite it builds the website automatically... am not too sure how to build the website  myself for example adding the api key to deepsite so the ai can actually respond fast and work fast... Speaking of. The ai should be 100% like you. Ui should be like 100% like you. The buttons and etc should be 100% like you. the only difference between you and thee ai i am trying to build is that its 100% free, can build me mods,apps,scan videos and etc. Download any file format for example "Me: Create me an ats mod that can go in flightmode. Ai: Okay here is the code <code>. It can only be a .sii file okay? Would you like me to make that file format and zip it for you? Me: Okay thanks" and then a download link or download button appears. IT SHOULD SUPER DETAILED AND DETAILED INSTRUCTIONS ON WHAT TO DO 
 
-MY GOALS:
-
-CHATGPT 2.0 (BlxAI)
-I want this done in less than 1-4 hours
-I want it to be smart as you
-And just basically a copy of your build but free and direct download link or download button :)
