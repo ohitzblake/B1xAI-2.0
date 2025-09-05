@@ -1,0 +1,18 @@
+{
+  "frontend": [
+    "components/ChatSidebar.tsx",
+    "components/ChatMessage.tsx",
+    "components/PromptBar.tsx",
+    "pages/index.tsx",
+    "styles/globals.css"
+  ],
+  "backend": [
+    "src/index.js",
+    "src/routes/generate.js",
+    ".env"
+  ],
+  "shared": [
+    "package.json",
+    "README.md"
+  ]
+}

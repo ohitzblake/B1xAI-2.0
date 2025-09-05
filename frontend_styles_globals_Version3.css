@@ -1,0 +1,19 @@
+body, html, #__next {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: system-ui, sans-serif;
+  background: #18181b;
+}
+main {
+  background: #fff;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  background: #222;
+}
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 3px;
+}
